@@ -5,6 +5,7 @@ A simple chatbot that summarizes YouTube videos and answers questions about them
 The project extracts transcripts from a YouTube video, embeds them, and uses a Retrieval-Augmented Generation (RAG) pipeline to chat with the content.
 
 🚀 Features
+
 Fetches YouTube video transcript automatically
 
 Cleans and chunks transcript text
